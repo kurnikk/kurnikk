@@ -13,12 +13,12 @@ Frontend-developer
 
 ## Tech Stack
 <p>
-  <img src="assets/icons/icon-html.svg" width="40"/>
-  <img src="assets/icons/icon-css.svg" width="40"/>
-  <img src="assets/icons/icon-js.svg" width="40"/>
-  <img src="assets/icons/icon-sass.svg" width="40"/>
-  <img src="assets/icons/icon-git.svg" width="40"/>
-  <img src="assets/icons/icon-bootstrap.svg" width="40"/>
+  <img src="icons/icon-html.svg" width="40"/>
+  <img src="icons/icon-css.svg" width="40"/>
+  <img src="icons/icon-js.svg" width="40"/>
+  <img src="icons/icon-sass.svg" width="40"/>
+  <img src="icons/icon-git.svg" width="40"/>
+  <img src="icons/icon-bootstrap.svg" width="40"/>
 </p>
 
 ---

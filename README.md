@@ -30,4 +30,4 @@ Frontend-developer
 
 ## Contacts
 Email: aka30082005@gmail.com  
-Telegram: kkurnik
+Telegram: [kkurnik](https://t.me/kkurnik)

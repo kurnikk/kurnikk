@@ -1,4 +1,4 @@
-# Hello, im Anastasia 👋  
+# Hello, im Anastasia   
 Frontend-developer
 
 ---
@@ -12,12 +12,14 @@ Frontend-developer
 ---
 
 ## Tech Stack
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+<p>
+  <img src="assets/icons/icon-html.svg" width="40"/>
+  <img src="assets/icons/icon-css.svg" width="40"/>
+  <img src="assets/icons/icon-js.svg" width="40"/>
+  <img src="assets/icons/icon-sass.svg" width="40"/>
+  <img src="assets/icons/icon-git.svg" width="40"/>
+  <img src="assets/icons/icon-bootstrap.svg" width="40"/>
+</p>
 
 ---
 

@@ -18,7 +18,7 @@ Frontend-developer
   <img src="icons/icon-js.svg" width="40"/>
   <img src="icons/icon-sass.svg" width="40"/>
   <img src="icons/icon-git.svg" width="40"/>
-  <img src="icons/icon-bootstrap.svg" width="40"/>
+  <img src="icons/icon-bootstrap.svg" width="45"/>
 </p>
 
 ---
